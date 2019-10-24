@@ -3,7 +3,7 @@ import Colors from './theme/Colors'
 function App() {
     return (
         <div>
-            <p style={{fontFamily: 'Montserrat, sans-serif', fontWeight: 600, textAlign: 'center', color: Colors.paleRed}}>App JS</p>
+            <p style={{fontWeight: 600, textAlign: 'center', color: Colors.paleRed}}>App JS</p>
         </div>
     )
 }
